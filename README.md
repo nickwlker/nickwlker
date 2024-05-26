@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-I am Nick Walker, a self-taught Lead Software Engineer. 👨‍💻
+I am Nick Walker, an experienced, self-taught Lead Software Engineer. 👨‍💻
 My main focus lies in front-end technologies.
 If you are willing to know more about my experience, check out my CV.
 
+
 ### 🚀 My work
 Currently, I am working on:
-- [Personal website with blog](https://nickwlker.com/)
+- [Personal website with a blog](https://nickwlker.com/)
   - Migration from substack to my personal platform
 - [Write Code Daily](https://writecodedaily.com/)
   - Migration from PayHip to my personal platform
@@ -25,18 +26,8 @@ More projects will be coming soon 🦾
 ### 💰 Support me
 - [Github Sponsorship](https://github.com/sponsors/nickwlker)
 - [Ko-Fi](https://ko-fi.com/nickwlker)
+- Share my content with your friends 🙏
 
-<!--
-**nickwlker/nickwlker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/1134603812984869005?color=007DFF&label=Discord"></a>
+<img src="https://komarev.com/ghpvc/?username=nickwlker&color=5BBF0F&label=Profile%20Views">
