@@ -10,6 +10,9 @@ I also have back-end experience with Python, Django, PHP, and Laravel.
 
 
 ### 🚀 My work
+
+Most of my work is done in private repositories for clients. 🔐
+
 Currently, I am working on migrating to a custom solution on Rust for my projects:
 - [Personal website with a blog](https://nickwlker.com/)
 - [Write Code Daily](https://writecodedaily.com/)
