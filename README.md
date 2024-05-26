@@ -29,5 +29,5 @@ More projects will be coming soon 🦾
 - Share my content with your friends 🙏
 
 ---
-<a href="https://discord.gg/Pmq8fYcus2"><img src="https://img.shields.io/discord/1134603812984869005?color=007DFF&label=Discord"></a>
+<a href="https://discord.gg/qb7AHbCC"><img src="https://img.shields.io/discord/1134603812984869005?color=007DFF&label=Discord"></a>
 <img src="https://komarev.com/ghpvc/?username=nickwlker&color=5BBF0F&label=Profile%20Views">
