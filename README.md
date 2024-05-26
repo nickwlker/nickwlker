@@ -26,6 +26,7 @@ More projects will be coming soon 🦾
 ### 📫 Get in Touch
 - [Twitter](https://x.com/nickwlker)
 - [Join my Discord Server](https://discord.gg/qb7AHbCC)
+- [Linkedin](https://www.linkedin.com/in/nickwlker/)
 - [hey@nickwlker.com](mailto:hey@nickwlker.com)
 
 ### 💰 Support me
