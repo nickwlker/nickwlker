@@ -19,7 +19,7 @@ More projects will be coming soon 🦾
 
 ### 📫 Get in Touch
 - [Twitter](https://x.com/nickwlker)
-- [Discord channel](https://discord.gg/qb7AHbCC)
+- [Join my Discord Server](https://discord.gg/qb7AHbCC)
 - [hey@nickwlker.com](mailto:hey@nickwlker.com)
 
 ### 💰 Support me
