@@ -1,22 +1,24 @@
 ## Hi there 👋
 
 I am Nick Walker, an experienced, self-taught Lead Software Engineer. 👨‍💻
-My main focus lies in front-end technologies.
-If you are willing to know more about my experience, check out my CV.
+
+My main expertise lies in front-end technologies such as React, React Native, Next.js, Typescript, and more.
+
+I also have back-end experience with Python, Django, PHP, and Laravel.
+
+💼 Want to know more about my experience? [Check out my CV here!](https://docsend.dropbox.com/view/ijr2ba74ddkik97q)
 
 
 ### 🚀 My work
-Currently, I am working on:
+Currently, I am working on migrating to a custom solution on Rust for my projects:
 - [Personal website with a blog](https://nickwlker.com/)
-  - Migration from substack to my personal platform
 - [Write Code Daily](https://writecodedaily.com/)
-  - Migration from PayHip to my personal platform
 
 More projects will be coming soon 🦾
 
 ### 📺 Watch my videos and streams
 - [YouTube](https://www.youtube.com/@nickwlker)
-* [Twitch](https://www.twitch.tv/nickwlker)
+- [Twitch](https://www.twitch.tv/nickwlker)
 
 ### 📫 Get in Touch
 - [Twitter](https://x.com/nickwlker)
