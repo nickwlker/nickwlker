@@ -6,7 +6,7 @@ My main expertise lies in front-end technologies such as React, React Native, Ne
 
 I also have back-end experience with Python, Django, PHP, and Laravel.
 
-💼 Want to know more about my experience? [Check out my CV here!](https://docsend.dropbox.com/view/ijr2ba74ddkik97q)
+💼 Want to know more about my experience? [Check out my CV here!](https://docsend.dropbox.com/view/iuib2ij4u5vjkwrw)
 
 
 ### 🚀 My work
